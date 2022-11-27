@@ -1,15 +1,15 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## cbind or rbind function give the matrix here
 
-makeCacheMatrix <- function(x = matrix()) {
+makeCacheMatrix <- cbind (x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+##  Use the solve() function to calculate the inverse.
 
-cacheSolve <- function(x, ...) {
+cacheSolve <- solve(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
